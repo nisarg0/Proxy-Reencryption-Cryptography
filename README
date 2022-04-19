@@ -1,0 +1,20 @@
+# Broadcast Proxy Reencryption Based on Certificateless Public Key Cryptography for Secure Data Sharing
+
+Code implementation is based upon research paper assigned by Taqi Ali Sir.
+
+## Requirements
+
+```
+pip install petlib
+```
+
+### Command to run 
+
+```
+python3 main.py
+```
+
+Members
+Nisarg
+Ketan
+Sanskruti
