@@ -8,7 +8,7 @@ is possible for multiple recipients.
 
 We have implemented the research paper in python using concepts of Object Oriented Programming which is 
 used to simulate the intraction between KGC, sender, proxy(cloud) and multiple recievers.
-## Screenshots
+## Overview of BPRE
 ![image](https://user-images.githubusercontent.com/60577767/163959757-8561fac5-f2b9-4a8d-ac64-50c6d6a46f2b.png)
 
 
